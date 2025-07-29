@@ -11,7 +11,7 @@ JavaScript Frontend
 * <b> Create a UI HTML Using HTML & JAVASCRIPT </b>
 
 <h1> Home UI</h1>
-![Teks Alt](https://drive.google.com/uc?export=view&id=1XXjKJ7-0L7vdCWo1zflIXPB9zcVPAfHn)
+![Teks Alt](https://drive.google.com/file/d/1XXjKJ7-0L7vdCWo1zflIXPB9zcVPAfHn/view?usp=sharing)
 
 
 <h1> Result</h1>
@@ -21,6 +21,6 @@ JavaScript Frontend
 <h1> Add Logging API Documentation</h1>
 ![Teks Alt] (https://drive.google.com/file/d/1uXFkgLnHnNKJWe9JwvQ-6qhSC96xxynB/view?usp=sharing)
 
-* Add a file upload feature from the frontend.
+
  <h1> Upload Different PDF </h1>
 ![Teks Alt] (https://drive.google.com/file/d/1Fy78rKBdD0MSMnS-k1NHk4rUZwCJU5wI/view?usp=sharing)
