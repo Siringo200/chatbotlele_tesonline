@@ -10,6 +10,8 @@ Tasks:
 JavaScript Frontend 
 * <b> Create a UI HTML Using HTML & JAVASCRIPT </b>
 
+TAMPILAN AWAL UI
+![Teks Alt](https://drive.google.com/uc?export=view&id=1XXjKJ7-0L7vdCWo1zflIXPB9zcVPAfHn)
   
 * Add logging or API documentation (Swagger via FastAPI).
 * Stream response back (if possible).
